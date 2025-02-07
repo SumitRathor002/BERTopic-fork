@@ -1,5 +1,5 @@
 import time
-import openai
+import openai_161 as openai
 import numpy as np
 from tqdm import tqdm
 from typing import List, Mapping, Any
